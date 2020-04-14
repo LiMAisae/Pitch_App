@@ -19,6 +19,7 @@ The application includes:
 - A date input box to select the date
   
 This application is hosted at: https://limamaison.shinyapps.io/covid-19_plotter/
+The source code is at: https://github.com/LiMAisae/ShinyApp
 
 --- .class #id 
 
